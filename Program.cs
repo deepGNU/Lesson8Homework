@@ -5,15 +5,16 @@ namespace Lesson8Homework
     class Program
     {
         // Problem 1
-        static void CheckString(string s)
+        static void CheckString(string str)
         {
-            if (IsLC(s[0]) && Len(s) >= 8 && IsNum(s[Len(s) - 1]))
+            if (IsLetterLC(str[0]) && Len(str) >= 8
+                        && IsNum(str[Len(str) - 1]))
                 System.Console.WriteLine("good");
             else
                 System.Console.WriteLine("not good");
         }
 
-        static bool IsLC(char c) => (c >= 'a' && c <= 'z');
+        static bool IsLetterLC(char c) => (c >= 'a' && c <= 'z');
         static bool IsNum(char c) => (c >= '0' && c <= '9');
 
         // Problem 2
@@ -31,9 +32,7 @@ namespace Lesson8Homework
         static string MaxString(string str1, string str2)
         {
             if (Len(str2) > Len(str1))
-            {
                 return str2;
-            }
 
             return str1;
         }
@@ -44,16 +43,12 @@ namespace Lesson8Homework
             int length = Len(str1);
 
             if (length != Len(str2))
-            {
                 return false;
-            }
 
             for (int i = 0; i < length; i++)
             {
                 if (str1[i] != str2[i])
-                {
                     return false;
-                }
             }
 
             return true;
@@ -124,6 +119,7 @@ namespace Lesson8Homework
             System.Console.WriteLine($"'{str1}' is the same as '{str3}': {StrEqual(str1, str3)}");
             System.Console.WriteLine($"'{str1}' is the same as '{str4}': {StrEqual(str1, str4)}");
         }
+        
         static void Main(string[] args)
         {
             Prob1();
