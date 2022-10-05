@@ -1,0 +1,15 @@
+/home/deep42/C#/Lesson8Homework/bin/Debug/net6.0/Lesson8Homework
+/home/deep42/C#/Lesson8Homework/bin/Debug/net6.0/Lesson8Homework.deps.json
+/home/deep42/C#/Lesson8Homework/bin/Debug/net6.0/Lesson8Homework.runtimeconfig.json
+/home/deep42/C#/Lesson8Homework/bin/Debug/net6.0/Lesson8Homework.dll
+/home/deep42/C#/Lesson8Homework/bin/Debug/net6.0/Lesson8Homework.pdb
+/home/deep42/C#/Lesson8Homework/obj/Debug/net6.0/Lesson8Homework.csproj.AssemblyReference.cache
+/home/deep42/C#/Lesson8Homework/obj/Debug/net6.0/Lesson8Homework.GeneratedMSBuildEditorConfig.editorconfig
+/home/deep42/C#/Lesson8Homework/obj/Debug/net6.0/Lesson8Homework.AssemblyInfoInputs.cache
+/home/deep42/C#/Lesson8Homework/obj/Debug/net6.0/Lesson8Homework.AssemblyInfo.cs
+/home/deep42/C#/Lesson8Homework/obj/Debug/net6.0/Lesson8Homework.csproj.CoreCompileInputs.cache
+/home/deep42/C#/Lesson8Homework/obj/Debug/net6.0/Lesson8Homework.dll
+/home/deep42/C#/Lesson8Homework/obj/Debug/net6.0/refint/Lesson8Homework.dll
+/home/deep42/C#/Lesson8Homework/obj/Debug/net6.0/Lesson8Homework.pdb
+/home/deep42/C#/Lesson8Homework/obj/Debug/net6.0/Lesson8Homework.genruntimeconfig.cache
+/home/deep42/C#/Lesson8Homework/obj/Debug/net6.0/ref/Lesson8Homework.dll
